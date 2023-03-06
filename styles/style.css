@@ -642,7 +642,7 @@ select
 
 .column-1 {
   flex-shrink: 0; /* shrinks to 0 to apply 75% width*/
-  flex-basis: 75%; /* sets initial width to 75%*, so aside will be 25%*/
+  flex-basis: 70%; /* sets initial width to 75%*, so aside will be 25%*/
   padding: 10px;
 }
 
