@@ -1,5 +1,5 @@
 Group project - Unit code: COS10026
-
+Leader of the group: Ngoc Minh Ngo( I have contributed 80% to the work)
 Responsive seafood restaurant website for sale.
 
 Specifically, the assignment involves:
